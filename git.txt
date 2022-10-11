@@ -224,3 +224,11 @@ Sicronizando as alterações:
 	git -m "new_commit"
 
 	git push
+
+Vá até o repositório desejado no Github e em "Code" copie a url do campo https.
+
+Clonando um repositório do Github localmente:
+
+	git clone https://github.com/user/<nome_do_repositorio>.git
+
+Atentar para as informações do --global e credênciais da conta do Github.
