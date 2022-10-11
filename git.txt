@@ -136,6 +136,7 @@ Desfazendo alterações:
 	git status
 
 Agora a opção diff não imprime nenhuma alteração!
+
 Verificando que arquivo foi adicionado (add) ao container:
 
 	git diff
@@ -185,6 +186,7 @@ Verficiando se existe um repositório remoto:
 	git remote
 
 Acesse sua conta em https://github.com/
+
 Crie um repositório através da interface em "+"
 
 Enviando o projeto local para o Github:
