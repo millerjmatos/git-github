@@ -214,3 +214,13 @@ Criando um repositório novo via comando:
 	git remote add origin https://github.com/millerjmatos/nome_do_projeto.git
 	
 	git push -u origin main
+
+Sicronizando as alterações:
+
+	git status
+
+	git add .
+
+	git -m "new_commit"
+
+	git push
