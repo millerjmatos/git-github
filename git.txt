@@ -232,3 +232,7 @@ Clonando um repositório do Github localmente:
 	git clone https://github.com/user/<nome_do_repositorio>.git
 
 Atentar para as informações do --global e credênciais da conta do Github.
+
+Sicronizando as mudanças do Github para o repositório local:
+
+	git pull
