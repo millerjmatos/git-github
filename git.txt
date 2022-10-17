@@ -193,26 +193,6 @@ Enviando o projeto local para o Github:
 
 	git remote add origin https://github.com/millerjmatos/nome_do_projeto.git
 	
-	git branch -M main
-	
-	git push -u origin main
-
-ou..
-
-Criando um repositório novo via comando:
-
-	echo "# git-github" >> README.md
-	
-	git init
-	
-	git add README.md
-	
-	git commit -m "first commit"
-	
-	git branch -M main
-	
-	git remote add origin https://github.com/millerjmatos/nome_do_projeto.git
-	
 	git push -u origin main
 
 Sicronizando as alterações:
